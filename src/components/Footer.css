@@ -1,0 +1,35 @@
+.Footer{
+    border:2px solid black;
+    border-radius: 20px;
+    background-color: white;
+    max-width: calc(93vw + 4px);
+    margin: auto;
+    margin-top: 3vw;
+    margin-bottom: 3vw;
+    min-height: 20vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+    /* font-size: calc(20px + 5vmin); */
+    /* font-weight: 700; */
+}
+
+.Footer .Title{
+    font-size: calc(20px + 3vmin);
+    margin-bottom: 4wh;
+}
+
+.Footer .Contents{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: calc(15px + 1vmin);
+    line-height: 6vh;
+}
+
+.Footer img{
+    vertical-align: middle;
+    width: 4vh;
+    height: 4vh;
+}
