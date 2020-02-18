@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/github.io/portfolio/static/css/main.90732995.chunk.css",
+    "main.js": "/github.io/portfolio/static/js/main.8f32853c.chunk.js",
+    "main.js.map": "/github.io/portfolio/static/js/main.8f32853c.chunk.js.map",
+    "runtime-main.js": "/github.io/portfolio/static/js/runtime-main.97915aeb.js",
+    "runtime-main.js.map": "/github.io/portfolio/static/js/runtime-main.97915aeb.js.map",
+    "static/js/2.daa0a1ac.chunk.js": "/github.io/portfolio/static/js/2.daa0a1ac.chunk.js",
+    "static/js/2.daa0a1ac.chunk.js.map": "/github.io/portfolio/static/js/2.daa0a1ac.chunk.js.map",
+    "index.html": "/github.io/portfolio/index.html",
+    "precache-manifest.6478ef1427811cec6ba13ab90f3e4e88.js": "/github.io/portfolio/precache-manifest.6478ef1427811cec6ba13ab90f3e4e88.js",
+    "service-worker.js": "/github.io/portfolio/service-worker.js",
+    "static/css/main.90732995.chunk.css.map": "/github.io/portfolio/static/css/main.90732995.chunk.css.map",
+    "static/js/2.daa0a1ac.chunk.js.LICENSE.txt": "/github.io/portfolio/static/js/2.daa0a1ac.chunk.js.LICENSE.txt",
+    "static/media/email.png": "/github.io/portfolio/static/media/email.520df1a2.png",
+    "static/media/github.png": "/github.io/portfolio/static/media/github.c5b8b6f7.png",
+    "static/media/no1.png": "/github.io/portfolio/static/media/no1.d1f582e0.png",
+    "static/media/no2.png": "/github.io/portfolio/static/media/no2.620746a5.png",
+    "static/media/no3.png": "/github.io/portfolio/static/media/no3.2bdfd6aa.png",
+    "static/media/phone.png": "/github.io/portfolio/static/media/phone.9aff05cc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97915aeb.js",
+    "static/js/2.daa0a1ac.chunk.js",
+    "static/css/main.90732995.chunk.css",
+    "static/js/main.8f32853c.chunk.js"
+  ]
+}
