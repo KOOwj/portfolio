@@ -17,7 +17,7 @@ function Project(){
                     <img src={art} alt="art" />
                 </div>
                 <div className="no2">
-                    <div><span className="first">01</span><span className="second"> 온라인게임 페이지 <a href="https://github.com/KOOwj/aft-defense" target="_blank"><img src={github} alt="github"/></a></span></div>
+                    <div><span className="first">01</span><span className="second"> 온라인게임 페이지 <a href="https://github.com/KOOwj/aft-defense" target="_blank" rel="noopener noreferrer"><img src={github} alt="github"/></a></span></div>
                     <div>
                         <h3>개발기간: 2018.10 ~ 2018.11</h3>
                         
@@ -65,7 +65,7 @@ function Project(){
             </div>
             <div className="Task2">
                 <div className="no1">
-                    <div><span className="first">02</span><span className="second"> App소개, 교육카드 판매 페이지 <a href="https://github.com/KOOwj/mdk" target="_blank"><img src={github} alt="github"/></a></span></div>
+                    <div><span className="first">02</span><span className="second"> App소개, 교육카드 판매 페이지 <a href="https://github.com/KOOwj/mdk" target="_blank" rel="noopener noreferrer"><img src={github} alt="github"/></a></span></div>
                     <div>
                         <h3>개발기간: 2019.04 ~ 2019.05</h3>
                         
