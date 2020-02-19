@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './Skill.css';
+import './css/Skill.css';
 
 function Skill(){
     return(
@@ -40,7 +40,7 @@ function Skill(){
                     <ul>
                         <li>Unix</li>
                         <li>Linux</li>
-                        <li>Git</li>
+                        <li>Git, Gitlab</li>
                         <li>Sourcetree</li>
                         <li>Jira</li>
                         <li>Wiki</li>

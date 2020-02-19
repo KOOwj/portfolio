@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 
 import Intro from './Intro';
 import Skill from './Skill';
-import './About.css';
+import './css/About.css';
 
 class About extends Component{
     render(){

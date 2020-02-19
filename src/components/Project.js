@@ -1,14 +1,14 @@
 import React from 'react';
 
-import art from '../imgs/no2.png';
-import sft from '../imgs/no1.png';  
-import jwt from '../imgs/no3.png';
-import github from '../imgs/github.png';
-import './Project.css';
+import art from './imgs/no2.png';
+import sft from './imgs/no1.png';  
+import jwt from './imgs/no3.png';
+import github from './imgs/github.png';
+import './css/Project.css';
 
 function Project(){
     return(
-        <div className="Project">
+        <div className="Project" name="works">
             <div className="Title">
                 <span>My works</span>
             </div>
@@ -58,7 +58,7 @@ function Project(){
                         </tr>
                         <tr>
                             <td>기타</td>
-                            <td>파일 다운로드, 파일 업로드, exe파일 실행</td>
+                            <td>파일 다운로드, 파일 업로드, 파일 실행</td>
                         </tr>
                     </tbody>
                 </table>

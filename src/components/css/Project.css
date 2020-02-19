@@ -1,0 +1,125 @@
+.Project{
+    border-radius: 20px;
+    border: 2px solid black;
+    background-color: #ffffff;
+    max-width: calc(93vw + 4px);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 3vw;
+    /* justify-content: center; */
+}
+.Project .Title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: calc(30px + 5vmin);
+    font-weight: 500;
+    color: black;
+}
+.Project h3{
+    font-size: calc(10px + 1vmin);
+}
+.Task{
+    display: flex;
+    margin: 0;
+    flex-direction: row;
+    min-height: 40vh;
+    margin-top: 5vh;
+    margin-left: 4vw;
+}
+.Task .no1{
+    display: flex;
+    margin-right: 1vw;
+}
+.Task .no1 img{
+    width:50vw;
+    height:50vh;
+
+}
+.Task .no2{
+    display: flex;
+    flex-direction: column;
+}
+
+.Task .no2 .first{
+    font-size: calc(20px + 5vmin);
+    
+}
+.Task .no2 .second{
+    font-size: calc(10px + 3vmin);
+    font-weight: 100;
+}
+
+.Task2{
+    display: flex;
+    margin: 0;
+    flex-direction: row;
+    min-height: 40vh;
+    margin-top: 5vh;
+    margin-left: 4vw;
+}
+.Task2 .no1{
+    display: flex;
+    flex-direction: column;
+}
+.Task2 .no2 img{
+    width:50vw;
+    height:50vh;
+
+}
+.Task2 .no2{
+    display: flex;
+}
+.Task2 .no1 .first{
+    font-size: calc(20px + 5vmin);
+    
+}
+.Task2 .no1 .second{
+    font-size: calc(10px + 3vmin);
+    font-weight: 100;
+}
+
+.Project .no3{
+    margin-bottom:3vh;
+    margin-left:4vw;
+    margin-right:4vw;
+    display: flex;
+    font-size: calc(10px + 1vmin);
+    color: gray;
+}
+
+table{
+    border-collapse: collapse;
+}
+table thead tr{
+    background-color: #efefef;
+}
+table thead tr th:nth-child(1){
+    width: 15vw;
+}
+table thead tr th:nth-child(2){
+    width: 60vw;
+}
+table thead tr th{
+    padding: 3vh 3vw;
+}
+table tbody{
+    color: black;
+    text-align: center;
+}
+
+table tbody tr{
+    border-bottom:1px solid #efefef;
+}
+
+table tbody tr td{
+    padding:1vh 1vw;
+}
+
+.Project img{
+    width: calc(10px + 3vmin);
+    height: calc(10px + 3vmin);
+}
+

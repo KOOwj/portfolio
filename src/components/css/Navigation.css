@@ -1,0 +1,11 @@
+.Navigation{
+    position: fixed;
+    right: 4vw;
+    font-size: calc(10px + 1vmin);
+}
+
+.Navigation li{
+    cursor: pointer;
+    list-style: none;
+    margin-bottom: 1vh;
+}
