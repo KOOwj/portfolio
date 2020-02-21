@@ -28,7 +28,9 @@ function Intro(){
                     <span><b>Keyword</b></span>
                     <ul>
                         <li>책임감</li>
-                        <li>집중력</li>
+                        <li>열정</li>
+                        <li>끈기</li>
+                        <li>축구</li>
                     </ul>
                 </div>
             </div>
