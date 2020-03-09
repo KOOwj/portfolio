@@ -154,11 +154,15 @@ function Project(){
                         </tr>
                         <tr>
                             <td>카드빈 체크</td>
-                            <td>SOAP API</td>
+                            <td>SOAP API, REST API</td>
                         </tr>
                         <tr>
                             <td>가상계좌조회</td>
                             <td>REST API</td>
+                        </tr>
+                        <tr>
+                            <td>배포</td>
+                            <td>JEUS, JAR</td>
                         </tr>
                     </tbody>
                 </table>
