@@ -14,6 +14,7 @@ function Skill(){
                     <span><b>Java</b></span>
                     <ul>
                         <li>JSP</li>
+                        <li>Spring Framework</li>
                         <li>Spring MVC</li>
                         <li>Spring Boot</li>
                         <li>SOAP API</li>
