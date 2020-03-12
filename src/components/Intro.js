@@ -1,5 +1,6 @@
 import React from 'react';
 
+import me from './imgs/951109_w.jpg';
 import './css/Intro.css';
 
 function Intro(){
@@ -11,7 +12,7 @@ function Intro(){
             </div>
             <div className="List">
                 <div className="no1">
-                    <span><b>Profile</b></span>
+                    <span><b>Profile</b></span><img src={me} alt="koo" width="180" height="240"/>
                     <ul>
                         <li>이름: 구원준 (KOO WONJUN)</li>
                         <li>나이: 26 (1995.11.09)</li>
